@@ -1,4 +1,4 @@
-# Berachain Telegram Bot
+# 🐻⛓ Berachain Telegram Bot
 
 Hot line for Berachain node validator health.  
 Can be used with public RPC endpoints as long as they allow websocket connections. 
