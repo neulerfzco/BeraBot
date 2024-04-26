@@ -1,4 +1,4 @@
-BINARY_NAME=./bin/Bot
+BINARY_NAME=./bin/BeraBot
 INSTALL_DIR=/usr/local/bin/
 
 build:
